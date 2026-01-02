@@ -26,7 +26,7 @@ int main()
 {
 
     PrintMultiTable();
-
+    PrintMultiTable();
 
 
     return 0;
